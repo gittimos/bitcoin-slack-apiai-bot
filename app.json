@@ -1,7 +1,6 @@
 {
   "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
-  "repository": "https://github.com/xVir/apiai-slack-richformatting",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "natural language"]
+  "description": "Simple API.AI webhook demonstration",
+  "repository": "https://github.com/gittimos/bitcoin-slack-apiai-bot",
+  "keywords": ["api.ai", "slack", "natural language"]
 }
